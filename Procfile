@@ -1,1 +1,1 @@
-web: exec ./archive/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api
+worker: sh archive/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api
