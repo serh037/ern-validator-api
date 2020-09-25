@@ -1,1 +1,1 @@
-web: exec target/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api
+web: exec ./target/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api
