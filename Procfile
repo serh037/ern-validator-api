@@ -1,1 +1,1 @@
-web: exec ./archive/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api java $JAVA_OPTS -Dserver.port=6060
+web: exec ./archive/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api

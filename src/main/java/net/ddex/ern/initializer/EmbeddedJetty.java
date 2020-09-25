@@ -22,7 +22,7 @@ public class EmbeddedJetty {
   private static final String CONTEXT_PATH = "/";
   private static final String CONFIG_LOCATION = "net/ddex/ern/config";
   private static final String MAPPING_URL = "/api/*";
-  private static final String DEFAULT_PROFILE = "dev";
+  private static final String DEFAULT_PROFILE = "production";
   private static org.springframework.web.context.WebApplicationContext WebApplicationContext;
 
   public static void main(String[] args) throws Exception {
