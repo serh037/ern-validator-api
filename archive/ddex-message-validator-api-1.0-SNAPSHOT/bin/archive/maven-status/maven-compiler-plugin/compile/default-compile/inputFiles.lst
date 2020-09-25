@@ -1,0 +1,17 @@
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/initializer/EmbeddedJetty.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/schema/SchemaFactory.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/schema/ThreeSevenOneSchema.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/service/SchemaService.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/util/SchemaBuilder.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/exception/ValidatorException.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/config/AppConfig.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/schema/ThreeFourOneSchema.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/vo/ValidationResponse.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/controller/ValidateController.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/config/WebMvcConfig.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/vo/ValidationResult.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/exception/ErrorResponse.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/exception/ExceptionControllerAdvice.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/schema/SchemaValidator.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/service/SchematronService.java
+/Applications/projects/ern-validator/api/src/main/java/net/ddex/ern/schema/Schema.java
