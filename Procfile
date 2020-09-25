@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar ./archive/ddex-message-validator-api-1.0-SNAPSHOT.jar
+web: exec ./archive/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api
