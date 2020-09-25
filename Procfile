@@ -1,1 +1,1 @@
-web: -Dserver.port=$PORT exec ./archive/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api 
+web: exec ./archive/ddex-message-validator-api-1.0-SNAPSHOT/bin/start-api 
